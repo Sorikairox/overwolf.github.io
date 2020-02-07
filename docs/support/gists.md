@@ -21,3 +21,8 @@ Please note that these are community code snippets, and the usage is at your own
   
 * [GR Digital/Overwolf app boilerplate](https://github.com/GRDigital/overwolf-boilerplate).  
   "the boilerplate we've used for multiple successful Overwolf apps, ranging from fairly simple to some of the most complex apps on the platform. It showcases updating the app from the server, deploying, logging and ffi with c-style plugin apis."
+
+
+
+* [Sorikairopx/Vue + Typescript sample app](https://github.com/Sorikairox/overwolf-vue-sample).  
+  "If you don't know how you should do an OW app with Vue and you like Typescript as I do, this Sample App is made for you. Each windows is a distinct Vue Project. It may not be the best way, but it does work and allow multiple team to work on each windows with low impacts on other team's codebase."
